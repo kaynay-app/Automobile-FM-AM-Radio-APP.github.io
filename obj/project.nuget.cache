@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UeYxZ7jGjhmM5WYvJx/VbMAIYGuoSk5dURGWR8apJe1KLenD/Ca6b06reHdbd4znnWsJ72MXnzYS1l0N1eZdZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kelem\\source\\repos\\Automobile Radio\\Automobile Radio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kelem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

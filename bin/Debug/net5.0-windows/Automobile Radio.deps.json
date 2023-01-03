@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Automobile Radio/1.0.0": {
+        "runtime": {
+          "Automobile Radio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Automobile Radio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
